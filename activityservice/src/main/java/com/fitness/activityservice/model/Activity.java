@@ -31,7 +31,7 @@ public class Activity {
     private Map<String, Object> additionalMetrics;
 
     @CreatedDate
-    private LocalDateTime createAt;
+    private LocalDateTime createdAt;
 
     @LastModifiedDate
     private LocalDateTime updatedAt;
